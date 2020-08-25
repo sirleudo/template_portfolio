@@ -23,7 +23,7 @@ Atualmente estou concluindo um curso de graduação em Ciência de Dados pela Un
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados do github:
 
 * **Análise da violência no Rio de Janeiro:** https://bityli.com/MAxei
 * **Análise dos dados do AirBnB Lisboa:** https://bityli.com/qhvl1
