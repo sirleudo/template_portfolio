@@ -7,26 +7,29 @@
 # Sirleudo Evaristo
 <sub>*Lead Data Scientist* at Administrator</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Graduado em Administração de Empresas, Especialista em Marketing, Recursos Humanos, Gestão de Negócios e LifeCoach.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Cursei vários programas de desenvolvimento pessoal e profissional, bem como participei de workshop, feiras, eventos e palestras sobre o tema de liderança e gestão.
+
+11 anos de experiência na área administrativa financeira;
+Atualmente estou concluindo um curso de graduação em Ciência de Dados pela Unifanor, um curso intensivo de Ciência de Dados pela Sigmoidal e começando um curso extensivo em Ciência de Dados pela instituição Digital House comprevisão de termino em Maio/2021.
 
 **Background in:** Python, Machine Learning, Administration.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [Facebook](https://www.facebook.com/sirleudo/)
+* [LinkedIn](https://www.linkedin.com/in/sirleudoevaristo/)
+* [Instagram](https://www.instagram.com/sirleudo_evaristo.ds)
 
 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Análise da violência no Rio de Janeiro:** https://bityli.com/MAxei
-* **Analise dos dados do AirBNB Lisboa:** https://bityli.com/qhvl1
-* **Analise dos dados do AirBNB Florida:** https://bityli.com/pCtDp
+* **Análise dos dados do AirBnB Lisboa:** https://bityli.com/qhvl1
+* **Analise dos dados do AirBnB Florida:** https://bityli.com/pCtDp
 * **Panorama COVID-19 no Brasil:** https://bityli.com/uBIed
-* **Regressão Logística - Estudo PAcientes Cardiovascular:** https://bityli.com/jMcMs
+* **Regressão Logística - Estudo Pacientes Cardiovascular:** https://bityli.com/jMcMs
 ---
 
 
