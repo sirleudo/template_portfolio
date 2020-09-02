@@ -30,6 +30,7 @@ Veja os tutoriais publicados do github:
 * **Analise dos dados do AirBnB Florida:** https://bityli.com/pCtDp
 * **Panorama COVID-19 no Brasil:** https://bityli.com/uBIed
 * **Regressão Logística - Estudo Pacientes Cardiovascular:** https://bityli.com/jMcMs
+* **Machine Learning - Detecção de Fraude em Cartões de Crédito:** https://bityli.com/WOB6U
 ---
 
 
