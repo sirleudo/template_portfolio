@@ -31,6 +31,7 @@ Veja os tutoriais publicados do github:
 * **Panorama COVID-19 no Brasil:** https://bityli.com/uBIed
 * **Regressão Logística - Estudo Pacientes Cardiovascular:** https://bityli.com/jMcMs
 * **Machine Learning - Detecção de Fraude em Cartões de Crédito:** https://bityli.com/WOB6U
+* **Machine Learning - Lidando com variáveis categóricas:** https://bityli.com/IFOeH
 ---
 
 
